@@ -111,7 +111,7 @@ npm i -g npm@8.3.2
     opencode configure {key} {password} {código-do-tema}
 ```
 * a mesma key e password que foi gerada quando você se incluiu na lista de desenvolvedores
-* o código do tema pode ser encontrado em "aparência da loja, logo abaixo do nome do tema que você irá editar"
+* o código do tema pode ser encontrado em "aparência da loja", logo abaixo do nome do tema que você irá editar
 * lembrando: ao digitar no prompt, as instruções devem ser separadas por um espaço
     * segue o exemplo:
     ```bash
